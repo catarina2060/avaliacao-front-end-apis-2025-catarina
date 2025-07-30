@@ -75,3 +75,8 @@ Serão avaliados os seguintes pontos:
 1. Crie um fork deste repositório.
 2. Implemente a solução.
 3. Faça commits frequentes e claros.
+
+![](./assets/Captura%20de%20tela%202025-07-30%20111026.png)
+![](./assets/Captura%20de%20tela%202025-07-30%20111124.png)
+![](./assets/Captura%20de%20tela%202025-07-30%20111158.png)
+![](./assets/Captura%20de%20tela%202025-07-30%20111213.png)
